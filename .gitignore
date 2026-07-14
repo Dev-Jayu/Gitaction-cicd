@@ -1,0 +1,15 @@
+node_modules/
+npm-debug.log
+.DS_Store
+.env
+.env.*
+coverage/
+logs/
+*.log
+.pnpm-debug.log
+.yarn-integrity
+build/
+.Dockerfile.swp
+.vscode/
+.idea/
+*.local
