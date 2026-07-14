@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req,res)=>{
-    res.send("Hello sagar its now ");
+    res.send("From Manual Deployment to Fully Automated CI/CD – A Great Learning Journey! ");
 });
 
 module.exports = app;
